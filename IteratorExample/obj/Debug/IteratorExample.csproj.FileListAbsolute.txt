@@ -1,0 +1,7 @@
+D:\VS Projects\Trash projects\SandboxConsole\IteratorExample\bin\Debug\IteratorExample.exe.config
+D:\VS Projects\Trash projects\SandboxConsole\IteratorExample\bin\Debug\IteratorExample.exe
+D:\VS Projects\Trash projects\SandboxConsole\IteratorExample\bin\Debug\IteratorExample.pdb
+D:\VS Projects\Trash projects\SandboxConsole\IteratorExample\obj\Debug\IteratorExample.csproj.AssemblyReference.cache
+D:\VS Projects\Trash projects\SandboxConsole\IteratorExample\obj\Debug\IteratorExample.csproj.CoreCompileInputs.cache
+D:\VS Projects\Trash projects\SandboxConsole\IteratorExample\obj\Debug\IteratorExample.exe
+D:\VS Projects\Trash projects\SandboxConsole\IteratorExample\obj\Debug\IteratorExample.pdb
