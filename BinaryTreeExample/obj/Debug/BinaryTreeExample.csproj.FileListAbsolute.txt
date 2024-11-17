@@ -1,0 +1,7 @@
+D:\VS Projects\Trash projects\SandboxConsole\BinaryTreeExample\bin\Debug\BinaryTreeExample.exe.config
+D:\VS Projects\Trash projects\SandboxConsole\BinaryTreeExample\bin\Debug\BinaryTreeExample.exe
+D:\VS Projects\Trash projects\SandboxConsole\BinaryTreeExample\bin\Debug\BinaryTreeExample.pdb
+D:\VS Projects\Trash projects\SandboxConsole\BinaryTreeExample\obj\Debug\BinaryTreeExample.csproj.AssemblyReference.cache
+D:\VS Projects\Trash projects\SandboxConsole\BinaryTreeExample\obj\Debug\BinaryTreeExample.csproj.CoreCompileInputs.cache
+D:\VS Projects\Trash projects\SandboxConsole\BinaryTreeExample\obj\Debug\BinaryTreeExample.exe
+D:\VS Projects\Trash projects\SandboxConsole\BinaryTreeExample\obj\Debug\BinaryTreeExample.pdb
