@@ -1,0 +1,7 @@
+D:\VS Projects\Trash projects\SandboxConsole\InheritanceExample\bin\Debug\InheritanceExample.exe.config
+D:\VS Projects\Trash projects\SandboxConsole\InheritanceExample\bin\Debug\InheritanceExample.exe
+D:\VS Projects\Trash projects\SandboxConsole\InheritanceExample\bin\Debug\InheritanceExample.pdb
+D:\VS Projects\Trash projects\SandboxConsole\InheritanceExample\obj\Debug\InheritanceExample.csproj.AssemblyReference.cache
+D:\VS Projects\Trash projects\SandboxConsole\InheritanceExample\obj\Debug\InheritanceExample.csproj.CoreCompileInputs.cache
+D:\VS Projects\Trash projects\SandboxConsole\InheritanceExample\obj\Debug\InheritanceExample.exe
+D:\VS Projects\Trash projects\SandboxConsole\InheritanceExample\obj\Debug\InheritanceExample.pdb
