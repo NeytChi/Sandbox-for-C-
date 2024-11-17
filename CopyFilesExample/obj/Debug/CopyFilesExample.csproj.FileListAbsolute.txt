@@ -1,0 +1,7 @@
+D:\VS Projects\Trash projects\SandboxConsole\CopyFilesExample\obj\Debug\CopyFilesExample.csproj.AssemblyReference.cache
+D:\VS Projects\Trash projects\SandboxConsole\CopyFilesExample\obj\Debug\CopyFilesExample.csproj.CoreCompileInputs.cache
+D:\VS Projects\Trash projects\SandboxConsole\CopyFilesExample\bin\Debug\CopyFilesExample.exe.config
+D:\VS Projects\Trash projects\SandboxConsole\CopyFilesExample\bin\Debug\CopyFilesExample.exe
+D:\VS Projects\Trash projects\SandboxConsole\CopyFilesExample\bin\Debug\CopyFilesExample.pdb
+D:\VS Projects\Trash projects\SandboxConsole\CopyFilesExample\obj\Debug\CopyFilesExample.exe
+D:\VS Projects\Trash projects\SandboxConsole\CopyFilesExample\obj\Debug\CopyFilesExample.pdb
