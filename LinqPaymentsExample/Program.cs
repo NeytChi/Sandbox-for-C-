@@ -107,14 +107,10 @@ namespace LinqPaymentsExample
                                   select i
                                   ;
             Console.WriteLine($"Calculate invoices that covered({covered}) by payments by their deadline dates. Count -> {matchedInvoices.Count()}");
-        }
-        public void GetInvoices_WhenS_ResultInvoiceList()
-        {
 
-        }
-        public void GetInvoices_When_ResultInvoiceList()
-        {
+            var exceptedInvoices = invoices.Except(matchedInvoices).ToList();
 
+            Console.WriteLine($"Invoices that is excepted from group of matches. Count ->{exceptedInvoices.Count()}");
         }
     }
     public class Invoice
