@@ -1,0 +1,7 @@
+D:\VS Projects\Trash projects\SandboxConsole\LinqPaymentsExample\bin\Debug\LinqPaymentsExample.exe.config
+D:\VS Projects\Trash projects\SandboxConsole\LinqPaymentsExample\bin\Debug\LinqPaymentsExample.exe
+D:\VS Projects\Trash projects\SandboxConsole\LinqPaymentsExample\bin\Debug\LinqPaymentsExample.pdb
+D:\VS Projects\Trash projects\SandboxConsole\LinqPaymentsExample\obj\Debug\LinqPaymentsExample.csproj.AssemblyReference.cache
+D:\VS Projects\Trash projects\SandboxConsole\LinqPaymentsExample\obj\Debug\LinqPaymentsExample.csproj.CoreCompileInputs.cache
+D:\VS Projects\Trash projects\SandboxConsole\LinqPaymentsExample\obj\Debug\LinqPaymentsExample.exe
+D:\VS Projects\Trash projects\SandboxConsole\LinqPaymentsExample\obj\Debug\LinqPaymentsExample.pdb

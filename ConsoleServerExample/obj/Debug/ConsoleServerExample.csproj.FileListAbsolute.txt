@@ -1,0 +1,7 @@
+D:\VS Projects\Trash projects\SandboxConsole\ConsoleServerExample\bin\Debug\ConsoleServerExample.exe.config
+D:\VS Projects\Trash projects\SandboxConsole\ConsoleServerExample\bin\Debug\ConsoleServerExample.exe
+D:\VS Projects\Trash projects\SandboxConsole\ConsoleServerExample\bin\Debug\ConsoleServerExample.pdb
+D:\VS Projects\Trash projects\SandboxConsole\ConsoleServerExample\obj\Debug\ConsoleServerExample.csproj.AssemblyReference.cache
+D:\VS Projects\Trash projects\SandboxConsole\ConsoleServerExample\obj\Debug\ConsoleServerExample.csproj.CoreCompileInputs.cache
+D:\VS Projects\Trash projects\SandboxConsole\ConsoleServerExample\obj\Debug\ConsoleServerExample.exe
+D:\VS Projects\Trash projects\SandboxConsole\ConsoleServerExample\obj\Debug\ConsoleServerExample.pdb
