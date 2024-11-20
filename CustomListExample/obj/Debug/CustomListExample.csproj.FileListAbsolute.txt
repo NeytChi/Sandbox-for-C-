@@ -1,0 +1,7 @@
+D:\VS Projects\Trash projects\SandboxConsole\CustomListExample\bin\Debug\CustomListExample.exe.config
+D:\VS Projects\Trash projects\SandboxConsole\CustomListExample\bin\Debug\CustomListExample.exe
+D:\VS Projects\Trash projects\SandboxConsole\CustomListExample\bin\Debug\CustomListExample.pdb
+D:\VS Projects\Trash projects\SandboxConsole\CustomListExample\obj\Debug\CustomListExample.csproj.AssemblyReference.cache
+D:\VS Projects\Trash projects\SandboxConsole\CustomListExample\obj\Debug\CustomListExample.csproj.CoreCompileInputs.cache
+D:\VS Projects\Trash projects\SandboxConsole\CustomListExample\obj\Debug\CustomListExample.exe
+D:\VS Projects\Trash projects\SandboxConsole\CustomListExample\obj\Debug\CustomListExample.pdb
