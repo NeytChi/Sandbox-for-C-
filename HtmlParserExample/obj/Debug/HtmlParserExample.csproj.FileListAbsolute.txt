@@ -1,0 +1,7 @@
+D:\VS Projects\Trash projects\SandboxConsole\HtmlParserExample\bin\Debug\HtmlParserExample.exe.config
+D:\VS Projects\Trash projects\SandboxConsole\HtmlParserExample\bin\Debug\HtmlParserExample.exe
+D:\VS Projects\Trash projects\SandboxConsole\HtmlParserExample\bin\Debug\HtmlParserExample.pdb
+D:\VS Projects\Trash projects\SandboxConsole\HtmlParserExample\obj\Debug\HtmlParserExample.csproj.AssemblyReference.cache
+D:\VS Projects\Trash projects\SandboxConsole\HtmlParserExample\obj\Debug\HtmlParserExample.csproj.CoreCompileInputs.cache
+D:\VS Projects\Trash projects\SandboxConsole\HtmlParserExample\obj\Debug\HtmlParserExample.exe
+D:\VS Projects\Trash projects\SandboxConsole\HtmlParserExample\obj\Debug\HtmlParserExample.pdb
