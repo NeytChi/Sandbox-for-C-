@@ -1,0 +1,7 @@
+D:\VS Projects\Trash projects\SandboxConsole\BTreeExample\bin\Debug\BTreeExample.exe.config
+D:\VS Projects\Trash projects\SandboxConsole\BTreeExample\bin\Debug\BTreeExample.exe
+D:\VS Projects\Trash projects\SandboxConsole\BTreeExample\bin\Debug\BTreeExample.pdb
+D:\VS Projects\Trash projects\SandboxConsole\BTreeExample\obj\Debug\BTreeExample.csproj.AssemblyReference.cache
+D:\VS Projects\Trash projects\SandboxConsole\BTreeExample\obj\Debug\BTreeExample.csproj.CoreCompileInputs.cache
+D:\VS Projects\Trash projects\SandboxConsole\BTreeExample\obj\Debug\BTreeExample.exe
+D:\VS Projects\Trash projects\SandboxConsole\BTreeExample\obj\Debug\BTreeExample.pdb

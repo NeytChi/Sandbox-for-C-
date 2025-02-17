@@ -1,0 +1,7 @@
+D:\VS Projects\Trash projects\SandboxConsole\CapTheorem\obj\Debug\CapTheorem.csproj.AssemblyReference.cache
+D:\VS Projects\Trash projects\SandboxConsole\CapTheorem\obj\Debug\CapTheorem.csproj.CoreCompileInputs.cache
+D:\VS Projects\Trash projects\SandboxConsole\CapTheorem\bin\Debug\CapTheorem.exe.config
+D:\VS Projects\Trash projects\SandboxConsole\CapTheorem\bin\Debug\CapTheorem.exe
+D:\VS Projects\Trash projects\SandboxConsole\CapTheorem\bin\Debug\CapTheorem.pdb
+D:\VS Projects\Trash projects\SandboxConsole\CapTheorem\obj\Debug\CapTheorem.exe
+D:\VS Projects\Trash projects\SandboxConsole\CapTheorem\obj\Debug\CapTheorem.pdb

@@ -1,0 +1,7 @@
+D:\VS Projects\Trash projects\SandboxConsole\IOStreamAsync\bin\Debug\IOStreamAsync.exe.config
+D:\VS Projects\Trash projects\SandboxConsole\IOStreamAsync\bin\Debug\IOStreamAsync.exe
+D:\VS Projects\Trash projects\SandboxConsole\IOStreamAsync\bin\Debug\IOStreamAsync.pdb
+D:\VS Projects\Trash projects\SandboxConsole\IOStreamAsync\obj\Debug\IOStreamAsync.csproj.AssemblyReference.cache
+D:\VS Projects\Trash projects\SandboxConsole\IOStreamAsync\obj\Debug\IOStreamAsync.csproj.CoreCompileInputs.cache
+D:\VS Projects\Trash projects\SandboxConsole\IOStreamAsync\obj\Debug\IOStreamAsync.exe
+D:\VS Projects\Trash projects\SandboxConsole\IOStreamAsync\obj\Debug\IOStreamAsync.pdb
